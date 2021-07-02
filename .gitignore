@@ -1,0 +1,23 @@
+/node_modules/
+.jshintrc
+.eslintrc
+/.vscode/
+/plugins/
+/.firebase/
+
+package-lock.json
+read_me.txt
+
+# production
+/build/
+
+# if outside src
+# /css/
+# /fonts/
+# /images/
+/lib/
+
+# for server imitation
+server.php
+
+read_me.txt
